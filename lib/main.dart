@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:travelmarker/pages/home/Home.dart' as HomePage;
-import 'package:travelmarker/pages/earth/Earth.dart' as EarthPage;
+import 'package:travelmarker/client/pages/home/Home.dart' as HomePage;
+import 'package:travelmarker/client/pages/earth/Earth.dart' as EarthPage;
 
 void main() {
   runApp(App());
